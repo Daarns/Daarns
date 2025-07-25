@@ -22,8 +22,6 @@
 - Web scraping & otomasi data ilmiah
 - Docker & deployment lokal
 
-🧰 Sedang membangun portofolio proyek pribadi & terbuka untuk kolaborasi atau peluang kerja!
-
 ---
 
 ## 🛠️ Tech Stack
