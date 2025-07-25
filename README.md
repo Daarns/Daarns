@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Daarns</h1>
+<p align="center">
+  🚀 Fresh Graduate | Backend Developer | AI & NLP Enthusiast
+</p>
 
-<!--
-**Daarns/Daarns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Daarns">
+    <img src="https://img.shields.io/github/followers/Daarns?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="mailto:nandana219@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nandana219%40gmail.com-blue?style=flat&logo=gmail" alt="Email">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+🎓 Fresh graduate Informatika dengan minat pada:
+- Backend Development (FastAPI, Python)
+- AI dan NLP ringan
+- Web scraping & otomasi data ilmiah
+- Docker & deployment lokal
+
+🧰 Sedang membangun portofolio proyek pribadi & terbuka untuk kolaborasi atau peluang kerja!
+
+---
+
+## 🛠️ Tech Stack
+
+```txt
+💻 Languages:        Python (intermediate), HTML/CSS, JavaScript (basic), PHP
+⚙️ Backend Tools:    FastAPI, Laravel
+🧠 AI/NLP Tools:     SentenceTransformer
+🔧 Dev Tools:        VS Code, Postman
+🕸️ Web Scraping:     BeautifulSoup
