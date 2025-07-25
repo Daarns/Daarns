@@ -38,4 +38,3 @@ a tech-savvy developer who loves building simple tools with real impact.
 ⚙️ Backend Tools:    FastAPI, Laravel
 🔧 Dev Tools:        VS Code, Postman, Git
 🕸️ Web Scraping:     BeautifulSoup
-🐳 Deployment:       Docker (basic), Local server
