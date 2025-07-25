@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+I'm+Nandana+aka+Daarns!;Backend+Developer+%7C+Web+Automation+%7C+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Hi+I'm+Nandana+(aka+Daarns)!;Backend+Developer+%7C+Web+Automation+%7C+Tech+Enthusiast" alt="Typing SVG">
 </h1>
+
 
 <p align="center">
   <a href="https://github.com/Daarns">
@@ -8,9 +9,6 @@
   </a>
   <a href="mailto:nandana219@gmail.com">
     <img src="https://img.shields.io/badge/Email-nandana219%40gmail.com-blue?style=flat&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/daarns">
-    <img src="https://img.shields.io/badge/LinkedIn-daarns-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
