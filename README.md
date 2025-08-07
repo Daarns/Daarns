@@ -21,9 +21,8 @@ a tech-savvy developer who loves building simple tools with real impact.
 
 💡 Passionate about:
 - 🧰 Backend Development with Python & FastAPI
-- 🤖 Web automation & scraping (BeautifulSoup)
+- 🤖 Scraping (BeautifulSoup)
 - 🌐 Clean & minimal web interfaces (HTML + Bootstrap)
-- 🐳 Deployment using Docker
 
 🎯 Always learning, always building.
 
