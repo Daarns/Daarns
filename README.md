@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Nandana Aruna Apta Baswara
 
-### Junior Fullstack Developer | Vibe Coder | AI Enthusiast
+### Junior Fullstack Developer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-nandana.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-nandana-aruna-apta-baswara-a21291289/)
@@ -17,10 +17,9 @@
 
 > **Learning by doing** | **High curiosity** | **Like challenging things**
 
-I'm a passionate developer who loves building **websites** and **backend services** with the help of AI tools. Currently diving deep into modern web technologies and exploring the exciting world of AI-assisted development!
+I'm a passionate developer who loves building **websites** and **backend services** with the help of AI tools. Currently diving deep into modern web technologies and exploring the exciting world!
 
 - 🔨 Building with **FastAPI**, **React**, **Next.js**, and **Docker**
-- 🤖 Embracing the **"vibe coder"** lifestyle with AI-powered development
 - 🎯 Future interests: **Machine Learning** & **Computer Vision**
 - 🌱 Always learning, always experimenting
 
@@ -49,7 +48,6 @@ I'm a passionate developer who loves building **websites** and **backend service
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🤖 AI Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -77,7 +75,6 @@ class Daarns:
     def __init__(self):
         self.current_learning = ["FastAPI", "React", "Next.js", "Docker"]
         self.future_interests = ["Machine Learning", "Computer Vision"]
-        self.coding_style = "Vibe Coder 🎵"
         self.motto = "Learning by doing"
     
     def get_daily_routine(self):
@@ -94,7 +91,6 @@ class Daarns:
 
 ## 🌟 Fun Facts
 
-- 🎨 I build websites with AI prompts - prompt engineering is my superpower!
 - 🐳 Currently mastering containerization with Docker
 - 🧠 Fascinated by ML and Computer Vision - next on my learning journey
 - ⚡ Believe in "learning by doing" - the best way to grow
@@ -126,6 +122,6 @@ class Daarns:
 
 <img src="https://komarev.com/ghpvc/?username=Daarns&label=Profile%20Views&color=3F8FFF&style=flat-square" alt="Profile Views" />
 
-**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House**
+Thank's for believing in me, Sry I failed i in the end
 
 </div>
