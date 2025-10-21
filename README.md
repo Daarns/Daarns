@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Nandana Aruna Apta Baswara
 
-### Fullstack Developer | Vibe Coder | AI Enthusiast
+### Junior Fullstack Developer | Vibe Coder | AI Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-nandana.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-nandana-aruna-apta-baswara-a21291289/)
