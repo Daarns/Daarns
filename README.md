@@ -116,8 +116,6 @@ class Daarns:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Daarns&label=Profile%20Views&color=3F8FFF&style=flat-square" alt="Profile Views" />
-
 Thank's for believing in me, Sry I failed i in the end
 
 </div>
