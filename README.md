@@ -105,8 +105,4 @@ class Daarns:
 
 ![Snake animation](https://raw.githubusercontent.com/Daarns/Daarns/output/github-contribution-grid-snake-dark.svg)
 
----
-
-Thank's for believing in me, Sry I failed i in the end
-
 </div>
