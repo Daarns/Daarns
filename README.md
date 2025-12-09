@@ -42,6 +42,7 @@ I'm a passionate developer who loves building **websites** and **backend service
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+// ...existing code...
 
 ### 🛠️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -59,12 +60,12 @@ I'm a passionate developer who loves building **websites** and **backend service
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Daarns's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daarns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=FFFFFF&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Daarns&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=FF6D00&currStreakLabel=3F8FFF&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=Daarns&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daarns&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=FFFFFF&cache_seconds=86400)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daarns&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=FF6D00&currStreakLabel=3F8FFF" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daarns&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -96,17 +97,6 @@ class Daarns:
 - 🐳 Currently mastering containerization with Docker
 - 🧠 Fascinated by ML and Computer Vision - next on my learning journey
 - ⚡ Believe in "learning by doing" - the best way to grow
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-nandana.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-nandana-aruna-apta-baswara-a21291289/)
-
-</div>
 
 ---
 
