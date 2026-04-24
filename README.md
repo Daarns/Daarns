@@ -4,7 +4,7 @@ Vibes with the tools — curious enough to start, stubborn enough to finish.
 
 Just enjoy watching things come to life.
 
-<div align="center">
+<div align="right">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daarns&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6&border_radius=8)](https://github.com/Daarns)
 
